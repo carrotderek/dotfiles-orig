@@ -1,0 +1,9 @@
+tap "homebrew/bundle"
+tap "homebrew/core"
+
+install diff-so-fancy
+install sqlite
+install wget
+install git
+install nvm
+install vim

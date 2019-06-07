@@ -1,0 +1,14 @@
+install caskroom/cask/brew-cask
+cask install virtualbox
+cask install vagrant
+
+cask install google-chrome
+cask install firefox
+cask install font-fira-code
+cask install iterm2
+cask install webstorm
+cask install sequel-pro
+
+cask install slack
+cask install the-unarchiver
+
