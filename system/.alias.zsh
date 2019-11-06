@@ -16,7 +16,3 @@ alias nup="npmupdate"
 alias nri="rm-rnode_modules&&npminstall"
 alias ncd="npm-check-su"
 
-#SIGFIG
-gre(){
-git pull--rebase upstream "$1"
-}
