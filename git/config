@@ -2,6 +2,7 @@
     name = Derek Szeto
 [github]
     user = carrotderek
+    email = 48880+carrotderek@users.noreply.github.com
 
 [core]
     editor = vim
